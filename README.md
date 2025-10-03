@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard
+# E-commerce Sales Analysis -Power BI Dashboard
 
 ## Dashboard
     Dashboard Link: https://github.com/Sangeeta2804/Data-Analysis-Bike-Sales-Dashboard/blob/main/AdventureWork_Sales.pbix
